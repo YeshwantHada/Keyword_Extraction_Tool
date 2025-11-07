@@ -35,11 +35,11 @@ openpyxl
 ## **Usage**
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Keyword_Extraction_Tool.git
+git clone https://github.com/YeshwantHada/Keyword_Extraction_Tool.git
 ```
 2. Navigate to the project folder:
 ```bash
-cd multi-file-keyword-extractor
+cd Keyword_Extraction_Tool
 ```
 3. Update the `root_directory` variable in `src/Keyword_Extraction_Tool.py` to point to your folder containing files.
 4. Run the script:
