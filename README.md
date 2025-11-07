@@ -35,22 +35,22 @@ openpyxl
 ## **Usage**
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/multi-file-keyword-extractor.git
+git clone https://github.com/your-username/Keyword_Extraction_Tool.git
 ```
 2. Navigate to the project folder:
 ```bash
 cd multi-file-keyword-extractor
 ```
-3. Update the `root_directory` variable in `src/keyword_extractor.py` to point to your folder containing files.
+3. Update the `root_directory` variable in `src/Keyword_Extraction_Tool.py` to point to your folder containing files.
 4. Run the script:
 ```bash
-python src/keyword_extractor.py
+python src/Keyword_Extraction_Tool.py
 ```
 
 ---
 
 ## **Output**
-The script creates an Excel file named `SLA_Contract_Matches.xlsx` with columns:
+The script creates an Excel file named `Output_results.xlsx` with columns:
 - **File Name**
 - **Full Path**
 - **Page Number** (if applicable)
